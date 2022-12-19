@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Gestió alumnes</string>
+    <string name="curs_dam">Curs DAM</string>
+    <string name="entrar">Entrar</string>
+    <string name="nom_admin">Nom admin</string>
+    <string name="cursos">Cursos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edat">Edat</string>
+    <string name="plus">+</string>
+    <string name="todo">TODO</string>
+    <string name="informe_academic">Informe Academic</string>
+    <string name="llistat">Llistat</string>
+    <string name="adre_a_postal">Adreça postal</string>
+    <string name="nom">Nom</string>
+    <string name="todo1">TODO</string>
+    <string name="todo4">TODO</string>
+</resources>
