@@ -1,8 +1,9 @@
-package com.estebi.examenandroid
+package com.estebi.examenandroid.adapters
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
+import com.estebi.examenandroid.R
 
 class AlumneAdapter(private val alumneList: List<Alumne>, private val onClickListener: (Alumne)->Unit) : RecyclerView.Adapter<AlumneViewHolder>(){
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): AlumneViewHolder {

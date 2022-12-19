@@ -5,12 +5,10 @@ import android.content.DialogInterface
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.view.View
 import android.widget.Button
 import android.widget.EditText
 import androidx.appcompat.app.AlertDialog
-import kotlinx.coroutines.NonCancellable.cancel
-import kotlinx.coroutines.NonCancellable.start
+import com.estebi.examenandroid.adapters.Alumne
 
 class CreateUser : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

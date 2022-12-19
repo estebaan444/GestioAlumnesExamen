@@ -1,4 +1,4 @@
-package com.estebi.examenandroid
+package com.estebi.examenandroid.adapters
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

@@ -1,4 +1,4 @@
-package com.estebi.examenandroid
+package com.estebi.examenandroid.adapters
 
 data class Alumne(
     val nom: String,

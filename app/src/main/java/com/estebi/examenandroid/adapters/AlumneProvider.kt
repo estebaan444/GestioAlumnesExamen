@@ -1,6 +1,6 @@
 
 import androidx.lifecycle.ViewModel
-import com.estebi.examenandroid.Alumne
+import com.estebi.examenandroid.adapters.Alumne
 
 class AlumneProvider : ViewModel() {
     companion object{
@@ -11,17 +11,17 @@ class AlumneProvider : ViewModel() {
                 "Bon alumne"
             ),
             Alumne(
-                "Eric",
+                "Alex",
                 "22",
                 "Mal alumne"
             ),
             Alumne(
-                "Enric",
+                "Joan",
                 "24",
                 "Bon alumne"
             ),
             Alumne(
-                "Kike",
+                "Dídac",
                 "20",
                 "Mal alumne"
             ),

@@ -10,6 +10,8 @@ import android.view.ViewGroup
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.estebi.examenandroid.adapters.Alumne
+import com.estebi.examenandroid.adapters.AlumneAdapter
 import com.estebi.examenandroid.databinding.FragmentLlistaBinding
 
 
